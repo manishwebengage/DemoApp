@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DemoApp</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="login">Login</string>
+    <string name="hi">Hi</string>
+    <string name="logout">Logout</string>
+    <string name="no_action_bar_activity">No Action Bar Activity</string>
+    <string name="action_bar_activity">Action Bar Activity</string>
+</resources>
